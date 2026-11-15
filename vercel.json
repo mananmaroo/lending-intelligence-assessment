@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "buildCommand": "node scripts/verify-release.mjs",
+  "installCommand": "",
+  "outputDirectory": "public"
+}

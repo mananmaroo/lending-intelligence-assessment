@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+__pycache__/
+.vercel/
+.env*
+.DS_Store
+dashboard/.data-app-offline/
+dashboard/dist/
